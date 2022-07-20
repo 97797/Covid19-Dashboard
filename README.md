@@ -23,4 +23,6 @@ Coronaviruses are a large family of viruses that may cause respiratory illnesses
 The disease it causes has been named “Coronavirus disease 2019” (or “COVID-19”). 
 
 Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment. However, some will become seriously ill and require medical attention.
-<img src="covid.jpeg" />
+
+
+<img src="covid.jpg" width='70%'/>
